@@ -203,7 +203,7 @@ static struct synaptics_rmi4_subpkt f12_c09[] = {
 };
 
 static struct synaptics_rmi4_subpkt f12_c10[] = {
-	RMI4_SUBPKT(f12_c10_0),
+	RMI4_SUBPKT(dummy_subpkt),
 };
 
 static struct synaptics_rmi4_subpkt f12_c11[] = {
